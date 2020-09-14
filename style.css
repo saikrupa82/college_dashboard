@@ -1,0 +1,9 @@
+.mainContent{
+	border-left: 1px solid lightgray;
+	border-right: 1px solid lightgray;
+	border-bottom: 1px solid lightgray;
+	min-height: 35vh;
+}
+.formChoice{
+	margin-top:.5em;
+}
